@@ -1,1 +1,1 @@
-# Medical-Image-Classification
+# Traffic-Image-Classification
